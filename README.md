@@ -1,4 +1,4 @@
-Carbon Emission Prediction Using Machine Learning
+#CARBON EMISSION PRIDICTION
 This project leverages machine learning techniques to forecast per capita CO₂ emissions based on historical and country-specific indicators such as GDP, energy use, and population metrics. Built using Random Forest Regression, the model provides reliable emission forecasts and offers insights that can support data-driven climate policy decisions.
 
 Project Structure
