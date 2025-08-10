@@ -118,9 +118,6 @@ Results
 The Random Forest model delivered R² = 0.978 on test data
 Key predictors: energy use, GDP, urbanization
 Significant forecast variability between developed and developing countries
-Author
-Shaik Jasmin
-B.Tech CSE | Geethanjali Institute of Science and Technology
 
 License
 Open-source for academic and research use only.
